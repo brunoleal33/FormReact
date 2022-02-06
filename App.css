@@ -1,0 +1,17 @@
+
+h1{
+    background-color: #00876e;
+    height: 50px;
+}
+#titulo{
+    color: white;
+    font-size: 25px;
+}
+span{
+    color: red;
+}
+.btn {
+    background-color: #00876e;
+    cursor: pointer;
+    text-align: center;
+}
