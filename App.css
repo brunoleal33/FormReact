@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+input {
+    border-bottom: 2px solid #323232;
+    padding: 10px;
+    font-size: .9rem;
+    margin-bottom: 40px;
+  }
+
+h1{
+    background-color: #00876e;
+    height: 50px;
+}
+#titulo{
+    color: white;
+    font-size: 25px;
+}
+span{
+    color: red;
+}
+.btn {
+    background-color: #00876e;
+    cursor: pointer;
+    text-align: center;
+}
